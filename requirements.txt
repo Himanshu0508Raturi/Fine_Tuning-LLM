@@ -1,0 +1,14 @@
+pymupdf
+langchain-text-splitters
+tqdm
+datasets
+transformers
+accelerate
+ipykernel
+ollama
+torch
+transformers
+peft
+accelerate
+safetensors
+langchain_ollama
