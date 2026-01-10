@@ -1,2 +1,5 @@
 myenv
-Data/raw/
+Data/raw/*
+llama3-merged/model-00001-of-00002.safetensors
+llama3-merged/model-00002-of-00002.safetensors
+Data/raw/iLibrary-Backend Internal Documentation.pdf
