@@ -12,3 +12,12 @@ peft
 accelerate
 safetensors
 langchain_ollama
+langchain
+langchain-core
+langchain-community
+sentence-transformers
+langchain-groq
+python-dotenv
+pinecone
+langgraph
+langgraph-llms
