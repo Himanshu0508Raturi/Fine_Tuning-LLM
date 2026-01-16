@@ -21,3 +21,4 @@ python-dotenv
 pinecone
 langgraph
 langgraph-llms
+streamlit
