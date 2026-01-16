@@ -11,3 +11,6 @@ langchain-groq
 python-dotenv
 pinecone
 langgraph
+fastapi[all]
+uvicorn[standard]
+streamlit
