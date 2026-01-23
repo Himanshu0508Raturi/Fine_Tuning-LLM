@@ -22,3 +22,5 @@ pinecone
 langgraph
 langgraph-llms
 streamlit
+pymongo
+pypdf
